@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "My first Stream",
+      "description": "Trying this out",
+      "id": 1
+    },
+    {
+      "title": "My second stream",
+      "description": "yes hello",
+      "userId": "112279552021610389108",
+      "id": 2
+    },
+    {
+      "title": "3rd stream!",
+      "description": "Yes more hello!",
+      "userId": "112279552021610389108",
+      "id": 3
+    },
+    {
+      "title": "Component Reuse",
+      "description": "Work damn it!",
+      "userId": "112279552021610389108",
+      "id": 5
+    }
+  ]
+}
